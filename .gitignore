@@ -1,0 +1,16 @@
+# Everything ignored by default
+*
+
+# Only allow these files
+!README.md
+!LICENSE
+!.gitignore
+
+# Assets folder (screenshots & icon)
+!Assets/
+!Assets/**
+
+# APK release
+!app/
+!app/release/
+!app/release/Sakina-V1.0.apk
