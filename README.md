@@ -152,7 +152,6 @@
 
 For suggestions or feedback:
 
-- 📧 **RioGx86@gmail.com**
 - 🐛 [Issues](https://github.com/RioG20/Sakina/issues)
 
 ---
